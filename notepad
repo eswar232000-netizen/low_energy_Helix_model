@@ -1,0 +1,69 @@
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
+venv/
+env/
+.venv/
+.env/
+
+# ---- VS Code workspace files ----
+.vscode/
+*.code-workspace
+
+# ---- Jupyter / IPython ----
+.ipynb_checkpoints
+*.ipynb
+
+# ---- Logs ----
+*.log
+*.out
+*.err
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Environment & dependency files ----
+poetry.lock
+Pipfile.lock
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Project output ----
+plots/
+data/
+*.png
+*.csv
+
+# ---- Backup files ----
+*.bak
+*.old
+*.tmp
+*~
+
+# ---- Compiled C extensions ----
+*.so
+*.pyd
+
+# ---- Test / coverage ----
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# ---- Git files to ignore ----
+*.orig
+*.patch
+
+# ---- Editor / IDE ----
+.idea/
+.settings/
+*.swp
+*.swo
