@@ -1,0 +1,4 @@
+mode,total_blocks,accepted_blocks,tips_left,unknown_parent_events
+CMDA,4,4,4,0
+FIXED,5,5,2,0
+LOWCMDA,3,3,3,0
